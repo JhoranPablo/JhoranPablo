@@ -15,7 +15,7 @@ Sou focado em código limpo, organização de projetos e criação de soluções
 
 <p align="left">
   <a href="https://github.com/JhoranPablo">
-    <img src="https://img.shields.io/badge/GitHub-HERBERTCARNAUBADESOUZA-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-JhoranPablo-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/jhorann__">
     <img src="https://img.shields.io/badge/Instagram-@jhorann__?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -62,8 +62,8 @@ Sou focado em código limpo, organização de projetos e criação de soluções
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JhoranPablo&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhoranPablo&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jhoranpablo&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhoranpablo&layout=compact&theme=tokyonight" />
 </p>
 
 ---
